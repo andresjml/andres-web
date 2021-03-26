@@ -1,0 +1,46 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.container-1{
+    display: flex;
+
+}
+
+.container-1 .card.leftCol img{
+    border-radius: 30%;
+    width: 90%;
+    padding: 11px;
+}
+
+.card{ 
+    width: 50%;
+    padding: 10px;
+   
+    
+}
+
+.leftCol{
+    width: 20%;
+    background-image: url(/Image/pexels-jakub-novacek-924824.jpg);
+    background-color: lightslategrey;
+    text-align: justify;
+
+
+}
+
+.rightCol{
+    width: 80%;
+    background-image: url(/Image/pexels-jakub-novacek-924824.jpg);
+
+}
+
+.container-2{
+    
+
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(25, 77, 129);
+
+}
