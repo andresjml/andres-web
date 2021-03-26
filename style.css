@@ -50,21 +50,31 @@ body{
 
 }
 
-.container-2{
+.container-2 {
     display:flex;
-    
-    
-
+    background-color: lightseagreen;
+    padding: 30px;
 }
-.footer{
-    width: 99%;   
-    height: 80px;
-    background-color: rgb(25, 77, 129);
-    background: url(./Image/background1.jpg);
-    background-size: 1000px;
-    background-repeat: repeat-x;
-    color: white;
-    font-weight: bold;
 
+.footer {
+    width: 50%;   
+    height: auto;
+    font-size: 40px;
 }
+
+.footer1 {
+    width: 50%;   
+    height: auto;    
+}
+
+.footer2 {
+    width: 50%;   
+    height: auto;
+}
+
+.footer3 {
+    width: 50%;   
+    height: auto;
+}
+
 
