@@ -61,17 +61,17 @@ body{
 }
 
 .footer1 {
-    width: 50%;   
+    width: 10%;   
     height: auto;    
 }
 
 .footer2 {
-    width: 50%;   
+    width: 10%;   
     height: auto;
 }
 
 .footer3 {
-    width: 50%;   
+    width: 10%;   
     height: auto;
 }
 
@@ -80,10 +80,11 @@ body{
     font-weight: bold;
 }
 .skillCard img{
-width: 30%;
+width: 19%;
 }
 .skillsContainer{
     display: grid;
     grid-template-columns: auto auto auto;
+    padding: 20px;
 }
 
