@@ -7,7 +7,6 @@ Personal Website
     - Insert image
     - Insert text
 - Display Relevant Jobs
-    - List
 - Display skills/certifications/
 - Footer
     -Get in contact 
