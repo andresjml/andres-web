@@ -11,7 +11,7 @@
         const line = document.createElement("div");
         line.className = "line";
         
-        line.innerHTML = `<h3> Country: ${work.country} -Position: ${work.position} Company: ${work.company}</h3>`;
+        line.innerHTML = `<h3> COUNTRY: ${work.country}, POSITION: ${work.position}, COMPANY: ${work.company}</h3>`;
 
         
         return line;

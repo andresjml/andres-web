@@ -77,4 +77,15 @@ body{
     height: auto;
 }
 
+.line{
+    font-size: 15px;
+    font-weight: bold;
+}
+.skillCard img{
+width: 30%;
+}
+.skillsContainer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
 
